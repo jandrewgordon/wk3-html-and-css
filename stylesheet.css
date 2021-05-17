@@ -1,0 +1,31 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: dodgerblue;
+    padding: 16px;
+    color: white;
+}
+
+header > nav > ul {
+    list-style: None;
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+#Logo {
+    font-family: Lato;
+    color: white;
+}
+
+footer {
+    background-color: dodgerblue;
+    padding: 16px;
+    color: white;
+    text-align: center;
+}
